@@ -1,0 +1,8 @@
+{
+  "name": "decrypt-users-js",
+  "version": "1.0.0",
+  "type": "module",
+  "dependencies": {
+    "crypto-js": "^4.1.1"
+  }
+}
